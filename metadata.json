@@ -1,0 +1,5 @@
+{
+  "name": "UniConvert AI - Grade Conversion System",
+  "description": "An intelligent tool to validate and process student grade conversions against target curriculums using Excel processing and Gemini AI for semantic matching.",
+  "requestFramePermissions": []
+}
